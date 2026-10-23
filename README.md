@@ -13,3 +13,7 @@ Fotografias e marca oficiais, capacidade e estrutura, condições de locação, 
 ## Publicação
 
 GitHub → Settings → Pages → Deploy from a branch → main → / (root). O site não necessita Node em execução.
+
+## Abertura cinematográfica
+
+A primeira tela apresenta foto provisória de laranjeira (Unsplash), movimento parallax progressivo por scroll, folhas animadas em CSS e transição sticky para o conteúdo. Respeita preferências de movimento reduzido. A imagem é ilustrativa e **não retrata o Recanto**. A fotografia do hero vem da Unsplash, autor Philippe Gauthier, página: https://unsplash.com/photos/orange-fruits-under-blue-sky-during-daytime-eaOjEz8746k. Substituir por fotografia/vídeo oficial autorizado antes do uso definitivo.
