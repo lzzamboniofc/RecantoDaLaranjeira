@@ -1,7 +1,15 @@
-# Recanto da Laranjeira
+# Recanto da Laranjeira — prévia comercial V2
 
-Prévia comercial do site institucional, em HTML, CSS e JavaScript, publicada diretamente na raiz da branch `main` para uso com GitHub Pages (`main` / `/root`).
+Site institucional demonstrativo com identidade gráfica inspirada em laranjeiras: ilustração vetorial autoral no hero, cores botânicas e tipografia editorial. Publicação estática no GitHub Pages pela branch `main`, pasta `/ (root)`.
 
-Site demonstrativo: fotografias ilustrativas. Confirmar imagens oficiais, estrutura, condições e contatos antes do lançamento definitivo.
+## Imagens e autenticação
 
-Para ativar o GitHub Pages: Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
+As duas fotografias ilustrativas remotas vêm do Unsplash, com identificação explícita na interface; **não são fotografias do Recanto**. Substituir por imagens originais com autorização antes do lançamento definitivo. A ilustração de laranjeira é conceitual e não é logotipo oficial. Não foram extraídas fotografias do Google Maps para republicação.
+
+## A confirmar
+
+Fotografias e marca oficiais, capacidade e estrutura, condições de locação, categorias de eventos aceitas, horário para visitas/eventos, contato preferencial e autorização para publicação. O telefone/endereço são informações da ficha pública do Google.
+
+## Publicação
+
+GitHub → Settings → Pages → Deploy from a branch → main → / (root). O site não necessita Node em execução.
